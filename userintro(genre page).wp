@@ -1,0 +1,166 @@
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"},"align":"full"} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"/wp-content/uploads/2022/09/v2-210ee7b689bb8724e039c23ff3661118_r-1.jpg","id":134,"dimRatio":0,"focalPoint":{"x":"0.56","y":"0.56"},"minHeight":400,"contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dspacing\u002d\u002dsmall, 1.25rem)","bottom":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dspacing\u002d\u002dlarge, 8rem)"}}}} -->
+<div class="wp-block-cover alignfull is-light" style="padding-top:var(--wp--custom--spacing--small, 1.25rem);padding-bottom:var(--wp--custom--spacing--large, 8rem);min-height:400px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-134" alt="" src="/wp-content/uploads/2022/09/v2-210ee7b689bb8724e039c23ff3661118_r-1.jpg" style="object-position:56% 56%" data-object-fit="cover" data-object-position="56% 56%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:site-title {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} /-->
+
+<!-- wp:loginout /--></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontStyle":"italic","fontWeight":"900","fontSize":"3rem"},"color":{"text":"#b04e4e"}}} -->
+<h1 class="has-text-align-center has-text-color" style="color:#b04e4e;font-size:3rem;font-style:italic;font-weight:900"><strong>Gabriel Helleren-Simpson's Work Space</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"113px"} -->
+<div style="height:113px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:navigation {"ref":24,"overlayMenu":"always","layout":{"type":"flex","justifyContent":"right","orientation":"vertical","flexWrap":"wrap"},"fontSize":"medium"} /--></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"/wp-content/uploads/2022/09/v2-b856ecfb6c4c07878a1860064863c5b8_r.jpg","id":135,"dimRatio":50,"isDark":false,"align":"wide"} -->
+<div class="wp-block-cover alignwide is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-135" alt="" src="/wp-content/uploads/2022/09/v2-b856ecfb6c4c07878a1860064863c5b8_r.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"full","style":{"color":{}}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"dimRatio":0,"overlayColor":"primary"} -->
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:search {"label":"Search book name","width":792,"widthUnit":"px","buttonText":"\u003cstrong\u003eSearch\u003c/strong\u003e","buttonUseIcon":true,"align":"center","style":{"border":{"radius":"100px"}},"textColor":"foreground","gradient":"pale-ocean"} /-->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"},"style":{"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(90deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"}}} -->
+<div class="wp-block-group has-background" style="border-radius:100px;background:linear-gradient(90deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"italic","fontWeight":"900"}}} -->
+<h4 style="font-style:italic;font-weight:900"><strong>Fantasy</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"url":"/wp-content/uploads/2022/08/NP9xWjN4mW.jpg","id":32,"dimRatio":0,"minHeight":248,"minHeightUnit":"px","contentPosition":"top center","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-center" style="min-height:248px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="/wp-content/uploads/2022/08/NP9xWjN4mW.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":100,"style":{"border":{"radius":"0px"},"color":{"background":"#bcc1c4"}},"className":"is-style-fill","fontSize":"medium"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" href="https://bluelightning.azurewebsites.net/2022/09/01/book1/" style="border-radius:0px;background-color:#bcc1c4"><strong>Book1</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"url":"/wp-content/uploads/2022/08/NP9xWjN4mW.jpg","id":32,"dimRatio":0,"minHeight":248,"minHeightUnit":"px","contentPosition":"top center","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-center" style="min-height:248px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="/wp-content/uploads/2022/08/NP9xWjN4mW.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":100,"style":{"border":{"radius":"0px"},"color":{"background":"#bcc1c4"}},"className":"is-style-fill","fontSize":"medium"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" style="border-radius:0px;background-color:#bcc1c4"><strong>Book2</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"url":"/wp-content/uploads/2022/08/NP9xWjN4mW.jpg","id":32,"dimRatio":0,"minHeight":247,"minHeightUnit":"px","contentPosition":"top center","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-center" style="min-height:247px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="/wp-content/uploads/2022/08/NP9xWjN4mW.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":100,"style":{"border":{"radius":"0px"},"color":{"background":"#bcc1c4"}},"className":"is-style-fill","fontSize":"medium"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" style="border-radius:0px;background-color:#bcc1c4"><strong>Book2</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"},"style":{"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(90deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"}}} -->
+<div class="wp-block-group has-background" style="border-radius:100px;background:linear-gradient(90deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"italic","fontWeight":"900"}}} -->
+<h4 style="font-style:italic;font-weight:900">Genre1</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"url":"/wp-content/uploads/2022/08/NP9xWjN4mW.jpg","id":32,"dimRatio":0,"minHeight":248,"minHeightUnit":"px","contentPosition":"top center","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-center" style="min-height:248px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="/wp-content/uploads/2022/08/NP9xWjN4mW.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":100,"style":{"border":{"radius":"0px"},"color":{"background":"#bcc1c4"}},"className":"is-style-fill","fontSize":"medium"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" style="border-radius:0px;background-color:#bcc1c4"><strong>Book1</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"url":"/wp-content/uploads/2022/08/NP9xWjN4mW.jpg","id":32,"dimRatio":0,"minHeight":248,"minHeightUnit":"px","contentPosition":"top center","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-center" style="min-height:248px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="/wp-content/uploads/2022/08/NP9xWjN4mW.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":100,"style":{"border":{"radius":"0px"},"color":{"background":"#bcc1c4"}},"className":"is-style-fill","fontSize":"medium"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" style="border-radius:0px;background-color:#bcc1c4"><strong>Book2</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"},"style":{"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(90deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"}}} -->
+<div class="wp-block-group has-background" style="border-radius:100px;background:linear-gradient(90deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"italic","fontWeight":"900"}}} -->
+<h4 style="font-style:italic;font-weight:900"><strong>Genre2</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"url":"/wp-content/uploads/2022/08/NP9xWjN4mW.jpg","id":32,"dimRatio":0,"minHeight":248,"minHeightUnit":"px","contentPosition":"top center","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-center" style="min-height:248px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="/wp-content/uploads/2022/08/NP9xWjN4mW.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":100,"style":{"border":{"radius":"0px"},"color":{"background":"#bcc1c4"}},"className":"is-style-fill","fontSize":"medium"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" style="border-radius:0px;background-color:#bcc1c4"><strong>Book1</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"center","textColor":"background","fontSize":"medium"} -->
+<p class="has-text-align-center has-background-color has-text-color has-medium-font-size"><strong>view more categories</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:cover {"url":"/wp-content/uploads/2022/09/v2-7e4f9e142ced31a7b6fe6529d10914c0_r.jpg","id":138,"dimRatio":50,"overlayColor":"secondary","minHeight":179,"minHeightUnit":"px","contentPosition":"top left","isDark":false,"align":"wide"} -->
+<div class="wp-block-cover alignwide is-light has-custom-content-position is-position-top-left" style="min-height:179px"><span aria-hidden="true" class="wp-block-cover__background has-secondary-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-138" alt="" src="/wp-content/uploads/2022/09/v2-7e4f9e142ced31a7b6fe6529d10914c0_r.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:columns -->
