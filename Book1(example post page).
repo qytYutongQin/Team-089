@@ -1,0 +1,161 @@
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"},"align":"full"} -->
+<div class="wp-block-group alignfull">
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:cover {"url":"/wp-content/uploads/2022/09/v2-d1aaaf9013206ce4ac6704ce91087d45_r.jpg","id":145,"dimRatio":50,"customOverlayColor":"#c7c3c3","focalPoint":{"x":"0.50","y":"0.50"},"contentPosition":"center center","isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#c7c3c3"></span><img class="wp-block-cover__image-background wp-image-145" alt="" src="/wp-content/uploads/2022/09/v2-d1aaaf9013206ce4ac6704ce91087d45_r.jpg" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%"/><div class="wp-block-cover__inner-container"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:buttons {"layout":{"type":"flex","verticalAlignment":"top","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"align":"right","style":{"border":{"radius":"100px"}},"className":"is-style-outline"} -->
+<div class="wp-block-button alignright is-style-outline"><a class="wp-block-button__link wp-element-button" style="border-radius:100px"><strong>←Previous</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":"100px"}},"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" style="border-radius:100px"><strong>Chapter 1 Beginning</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":"100px"}},"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" style="border-radius:100px"><strong>Next→</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"56px"} -->
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"color":{"text":"#fc7800"}},"fontSize":"large"} -->
+<h4 class="has-text-color has-large-font-size" style="color:#fc7800"><strong>Story List</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#af8251"},"border":{"radius":"0px"}},"fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background wp-element-button" style="border-radius:0px;background-color:#af8251">Book1</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons {"layout":{"type":"flex","verticalAlignment":"top"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#af8251"},"border":{"radius":"0px"}},"fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background wp-element-button" style="border-radius:0px;background-color:#af8251">Book2</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"left","level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"luminous-vivid-orange","fontSize":"x-large"} -->
+<h4 class="has-text-align-left has-luminous-vivid-orange-color has-text-color has-x-large-font-size" style="font-style:normal;font-weight:700"><strong>Font</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"100px"}},"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" style="border-radius:100px"><strong>+</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"border":{"radius":"100px"}},"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" style="border-radius:100px"><strong>-</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","style":{"border":{"radius":"100px"},"color":{"background":"#bcc7c8"}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-foreground-color has-text-color has-background wp-element-button" style="border-radius:100px;background-color:#bcc7c8"><strong>Light/Dark</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"41px"} -->
+<div style="height:41px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:post-date /-->
+
+<!-- wp:spacer {"height":"41px"} -->
+<div style="height:41px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:audio {"id":55,"align":"left"} -->
+<figure class="wp-block-audio alignleft"><audio controls src="/wp-content/uploads/2022/08/Jules-FK-Lizzys-black-rocks.mp3" autoplay></audio><figcaption class="wp-element-caption">testing music1</figcaption></figure>
+<!-- /wp:audio --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:cover {"customOverlayColor":"#ffeede","minHeight":691,"minHeightUnit":"px","contentPosition":"top left","isDark":false} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-top-left" style="min-height:691px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#ffeede"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"left","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size"><strong><em>Gandalf</em></strong></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:cover {"overlayColor":"secondary","minHeight":690,"minHeightUnit":"px","contentPosition":"top left","isDark":false,"align":"left"} -->
+<div class="wp-block-cover alignleft is-light has-custom-content-position is-position-top-left" style="min-height:690px"><span aria-hidden="true" class="wp-block-cover__background has-secondary-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Gandalf:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wizard from .......</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":54,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="/wp-content/uploads/2022/08/srchttp___img.zcool_.cn_community_012ac55cb1fbc5a801214168814238.jpg@1280w_1l_2o_100sh.jpgreferhttp___img.zcool_-1.webp" alt="" class="wp-image-54"/></figure>
+<!-- /wp:image --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"foreground","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-foreground-color has-alpha-channel-opacity has-foreground-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:comments {"backgroundColor":"secondary","className":"wp-block-comments-query-loop "} -->
+<div class="wp-block-comments wp-block-comments-query-loop has-secondary-background-color has-background"><!-- wp:comments-title /-->
+
+<!-- wp:comment-template -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"40px"} -->
+<div class="wp-block-column" style="flex-basis:40px"><!-- wp:avatar {"size":40,"style":{"border":{"radius":"20px"}}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:comment-author-name {"fontSize":"small"} /-->
+
+<!-- wp:group {"layout":{"type":"flex"},"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px"><!-- wp:comment-date {"fontSize":"small"} /-->
+
+<!-- wp:comment-edit-link {"fontSize":"small"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:comment-content /-->
+
+<!-- wp:comment-reply-link {"fontSize":"small"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:comment-template -->
+
+<!-- wp:comments-pagination -->
+<!-- wp:comments-pagination-previous /-->
+
+<!-- wp:comments-pagination-numbers /-->
+
+<!-- wp:comments-pagination-next /-->
+<!-- /wp:comments-pagination -->
+
+<!-- wp:post-comments-form /--></div>
+<!-- /wp:comments --></div>
+<!-- /wp:group -->
