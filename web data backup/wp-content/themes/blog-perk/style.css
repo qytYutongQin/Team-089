@@ -1,0 +1,42 @@
+/*
+Theme Name: Blog Perk
+Theme URI: https://themeansar.com/free-themes/blog-perk/
+Author: Themeansar
+Author URI: https://themeansar.com
+Description: Blog Perk is a fast, clean, modern-looking Best Responsive Blog, News, Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Blog Perk is suitable for dynamic blog, news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. Blog Perk is SEO friendly, WPML,Elementor,Gutenberg, translation and RTL ready. Live preview : https://demos.themeansar.com/fameup-demos/ and documentation at https://docs.themeansar.com/docs/fameup/
+Version: 0.0.4
+Requires PHP: 5.4
+Tested up to: 6.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: fameup
+Text Domain: blogperk
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Blog Perk WordPress Theme is child theme of Newsup, Copyright 2022 Themeansar
+Blog Perk is distributed under the terms of the GNU General Public License v3
+
+Blog Perk is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+a {
+    text-decoration: underline !important;
+}
+.switch { 
+    display: none !important; 
+}
+.msearch {
+    display: none !important;
+}
+.navbar-toggler>.close {
+    display: none;
+}
+.offcbtn {
+    opacity: 0;
+}
+.navbar-toggler.collapsed>.close {
+    display: none;
+}
+.navbar-toggler:not(.collapsed)>.navbar-toggler-icon {
+    display: block;
+}

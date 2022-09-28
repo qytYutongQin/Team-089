@@ -1,0 +1,22 @@
+/* 4-columns grid-css */
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col{margin-right:2%;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(4n){margin-right:0;}
+
+@media only screen and (min-width: 601px) and (max-width: 790px) {
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col{margin-right:2%;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(4n){margin-right:2%;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(3n){margin-right:0;}
+}
+
+@media only screen and (min-width: 375px) and (max-width: 600px) {
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col{margin-right:2%;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(4n){margin-right:2%;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(3n){margin-right:2%;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(2n){margin-right:0;}
+}
+
+@media only screen and (max-width: 374px) {
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col{margin-right:0;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(4n){margin-right:0;}
+.gridmode-masonry-inactive .gridmode-grid-post.gridmode-4-col:nth-of-type(3n){margin-right:0;}
+}
